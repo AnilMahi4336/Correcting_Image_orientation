@@ -1,0 +1,3 @@
+# Correcting_Image_orientation
+CVPR) dataset [32] released by MIT. This database contains 67 indoor categories room/scene categories, including homes, offices, public spaces, stores, and many more. A sample of this dataset can be seen in Figure 11.1.
+The reason we are using this dataset is because it is very easy for a human to determine if a natural scene image is incorrectly oriented – our goal is to replicate this level of performance using a Convolutional Neural Network. However, all images in Indoor CVPR are correctly oriented; therefore, we need to build our own dataset from Indoor CVPR with labeled images under various rotations.
